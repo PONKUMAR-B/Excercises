@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.home{
+    min-height: 100vh;
+    width: 100%;
+}
+.container-fluid{
+    top: 10px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    padding: 10px 0px;
+} 
+
+
+.container{
+    padding: 20px 30px;
+    border-radius: 2px;
+}
+
+.table tbody tr td:nth-child(){
+    float: right;
+}
